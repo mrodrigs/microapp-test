@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@microapp-io/auth": "^2.0.0",
+    "@microapp-io/react": "^1.0.1",
     "@microapp-io/ui": "^1.0.11",
     "next": "14.2.24",
     "react": "^18",

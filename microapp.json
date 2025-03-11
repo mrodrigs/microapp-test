@@ -1,4 +1,4 @@
 {
   "name": "hello-microapp",
-  "entryComponent": "./src\\app\\page.tsx"
+   "entryComponent": "./src/app/page.tsx"
 }
