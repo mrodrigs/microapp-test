@@ -1,7 +1,7 @@
 import { MicroappNextFederationPlugin } from '@microapp-io/scripts';
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  output: 'export',
   distDir: '.next',
   webpack: (config, options) => {
     if (!options.isServer) {
